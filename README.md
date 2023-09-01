@@ -37,4 +37,5 @@ NOTES:
 
 1. The synthetic is NOT the real data used in the study. It is a representation of the actual data
 2. Use the 'sample' data frame to help run the code faster (the whole data takes hours to preprocess)
+3. The synthetic data is in a zip file due to size (please unzip to use)
     
